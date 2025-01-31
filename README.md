@@ -10,7 +10,7 @@
 
 ### 🔧 Technologies & Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
-<a href="https://www.splunk.com" target="_blank" rel="noreferrer"><img src="https://github.com/ezaspy/oscybershop/blob/main/main/content/splunk-svgrepo-com.svg" alt="spl" width="60" height="60"/></a>
+<a href="https://www.splunk.com" target="_blank" rel="noreferrer"><img src="https://github.com/cyberg3cko/oscybershop/blob/main/main/content/splunk-svgrepo-com.svg" alt="spl" width="60" height="60"/></a>
 <a href="https://github.com/microsoft/Kusto-Query-Language" target="_blank" rel="noreferrer"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Sentinel.svg" alt="kql" width="60" height="60"/></a>
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60"/></a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="60" height="60"/></a>
@@ -26,7 +26,7 @@
 - Log Analysis
 
 ### 🔭 In development
-- Adding content to [onestopcybershop](https://github.com/ezaspy/oscybershop)...
+- Adding content to [onestopcybershop](https://github.com/cyberg3cko/oscybershop)...
 
 ### 📄 Publications
 - elrond Presentation [WWHF23 23 Tool Shed Demo: Elrond](https://vimeo.com/890364778)
@@ -45,11 +45,11 @@
 
 ### &#x1f4c8; GitHub Stats
 <br>
-<a href="https://github.com/ezaspy/ezaspy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaspy&hide=perl,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+<a href="https://github.com/cyberg3cko/cyberg3cko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberg3cko&hide=perl,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
-<a href="https://github.com/ezaspy/ezaspy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezaspy&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+<a href="https://github.com/cyberg3cko/cyberg3cko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberg3cko&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
 <!-- React to something on GitHub with a ❤️ emoji -->

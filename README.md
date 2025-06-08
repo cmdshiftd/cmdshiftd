@@ -25,11 +25,8 @@
 - Digital Forensics & Incident Response
 - Log Analysis
 
-### 🔭 In development
-- Adding content to [onestopcybershop](https://github.com/cyberg3cko/oscybershop)...
-
 ### 📄 Publications
-- elrond Presentation [WWHF23 23 Tool Shed Demo: Elrond](https://vimeo.com/890364778)
+- elrond Presentation [WWHF23 23 Tool Shed Demo: Elrond](https://m.youtube.com/watch?v=vjSHPhDPlks)
 - Splunk app [elrond](https://splunkbase.splunk.com/app/6606/)
 - MITRE ATT&CK Framework [T1036.008 - Masquerading: Masquerade File Type](https://attack.mitre.org/techniques/T1036/008/)
 
@@ -37,10 +34,6 @@
 <!-- - OSSEM [<detection_name>](https://github.com/OTRF/OSSEM) -->
 <!-- - Volatility3 [<plugin_name>](https://stuxnet999.github.io/volatility/2020/07/04/Writing-Plugins-Volatility.html) -->
 - LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
-
-### 🌱 Learning
-- Utilise Blue skills for Red and Purple teaming
-- AWS and Azure Cloud infrastructure and configuration
 <br>
 
 ### &#x1f4c8; GitHub Stats

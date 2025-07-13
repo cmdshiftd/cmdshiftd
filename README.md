@@ -30,17 +30,16 @@
 - elrond Presentation [WWHF23 23 Tool Shed Demo: Elrond](https://m.youtube.com/watch?v=vjSHPhDPlks)
 - Splunk app [elrond](https://splunkbase.splunk.com/app/6606/)
 - LOOBins [textutil](https://github.com/infosecB/LOOBins/pull/96)
-<!-- - OSSEM [<detection_name>](https://github.com/OTRF/OSSEM) -->
 <!-- - Volatility3 [<plugin_name>](https://stuxnet999.github.io/volatility/2020/07/04/Writing-Plugins-Volatility.html) -->
 <br>
 
 ### &#x1f4c8; GitHub Stats
 <br>
 <a href="https://github.com/cyberg3cko/cyberg3cko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberg3cko&hide=perl,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdshiftd&hide=perl,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 <a href="https://github.com/cyberg3cko/cyberg3cko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberg3cko&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmdshiftd&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
 <!-- React to something on GitHub with a ❤️ emoji -->

@@ -10,7 +10,7 @@
 
 ### 🔧 Technologies & Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
-<a href="https://www.splunk.com" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.1150703383.0567/st,small,845x845-pad,1000x1000,f8f8f8.jpg" alt="spl" width="60" height="60"/></a>
+<a href="https://www.splunk.com" target="_blank" rel="noreferrer"><img src="https://www.datocms-assets.com/55802/1715688864-splunklogo.png?auto=format" alt="spl" width="60" height="60"/></a>
 <a href="https://github.com/microsoft/Kusto-Query-Language" target="_blank" rel="noreferrer"><img src="http://code.benco.io/icon-collection/azure-icons/Azure-Sentinel.svg" alt="kql" width="60" height="60"/></a>
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60"/></a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="60" height="60"/></a>
